@@ -45,11 +45,11 @@
 | [imap](https://www.npmjs.com/package/imap) | [imap typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/imap) | [SO help](http://stackoverflow.com/questions/26249210/how-do-i-write-a-typescript-declaration-file-for-a-complex-external-commonjs-mod) |
 | [nodemailer-pickup-transport](https://www.npmjs.com/package/nodemailer-pickup-transport) | [nodemailer-pickup-transport typings](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/nodemailer-pickup-transport) |  |
 | [mailparser](https://www.npmjs.com/package/mailparser) | [mailparser typings](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/mailparser) | This package disappeared from DT at one point |
-| [pino](https://www.npmjs.com/package/imap)  | [pino typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/pino) | [PR to DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9715),  [feedback from package author](https://github.com/mcollina/pino/issues/62) |
+| [pino](https://www.npmjs.com/package/pino)  | [pino typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/pino) | [PR to DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/9715),  [feedback from package author](https://github.com/mcollina/pino/issues/62) |
 | [seneca](https://www.npmjs.com/package/seneca) | [seneca typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/seneca) | [help from package authors](https://github.com/senecajs/seneca/issues/159) |
 | [GeoJSON](http://geojson.org/geojson-spec.html) | [GeoJSON typings](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/geojson) | emailed author |
 | [component-emitter](https://www.npmjs.com/package/component-emitter) | [component-emitter typings](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/component-emitter) |  |  |
-| [node]() | [node.js typings](https://github.com/DefinitelyTyped/DefinitelyTyped/blame/master/node/node.d.ts) |  |
+| [node](https://nodejs.org/api/) | [node.js typings](https://github.com/DefinitelyTyped/DefinitelyTyped/blame/master/node/node.d.ts) |  |
 
 
 # How to Submit your Type Declarations
